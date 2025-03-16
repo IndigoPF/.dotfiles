@@ -15,35 +15,3 @@ let &t_EI = "\<esc>[1 q"
 
 " Remaps
 inoremap jk <Esc>
-
-" asdfasfdsafsafd
-" asdfasfdsafsafd
-" asdfasfdsafsafd
-" asdfasfdsafsafd
-" asdfasfdsafsafd
-" asdfasfdsafsafd
-" asdfasfdsafsafd
-" asdfasfdsafsafd
-" asdfasfdsafsafd
-" asdfasfdsafsafd
-" asdfasfdsafsafd
-" asdfasfdsafsafd
-" asdfasfdsafsafd
-" asdfasfdsafsafd
-" asdfasfdsafsafd
-" asdfasfdsafsafd
-" asdfasfdsafsafd
-" asdfasfdsafsafd
-" asdfasfdsafsafd
-" asdfasfdsafsafd
-" asdfasfdsafsafd
-" asdfasfdsafsafd
-" asdfasfdsafsafd
-" asdfasfdsafsafd
-" asdfasfdsafsafd
-" asdfasfdsafsafd
-" asdfasfdsafsafd
-" asdfasfdsafsafd
-" asdfasfdsafsafd
-" asdfasfdsafsafd
-" asdfasfdsafsafd
