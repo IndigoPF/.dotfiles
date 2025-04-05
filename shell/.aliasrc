@@ -10,3 +10,6 @@ alias tm="tmux"
 alias tml="tmux ls"
 alias tma="tmux attach"
 alias tmat="tmux attach -t"
+
+# Help
+alias help="python ~/.help.py"
